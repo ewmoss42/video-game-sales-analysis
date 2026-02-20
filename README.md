@@ -4,6 +4,9 @@ This project was developed for the CSE 310 Data Analysis module. The goal of thi
 
 The software demonstrates key data analysis skills including data preprocessing, grouping, visualization, and generating insights from large datasets.
 
+## Demo Video
+https://youtu.be/nn8C9CSgsbM
+
 ## Data Analysis Results
 
 The analysis produced several meaningful insights:
